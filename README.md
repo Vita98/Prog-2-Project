@@ -1,12 +1,12 @@
 # Programmazione 2 Exam Project
 ## UNIBA - Dipertimento di informatica - Solution by Vitandrea Sorino 
 
-### Final score: 30L
+### Final score (Theory + Project): 30L
 
-Written in Eclipse
+IDE: Eclipse
 
-Java program written in Eclipse for the programmazione 2 exam project in
-less than 2 hours without internet connection or documentation.
+Java program coded on Eclipse for the "Programmazione 2" exam.
+Coded in less than 2 hours without internet connection or documentation whatsoever.
 
 The main subject of this project was to implement:
 - Java UI with Swing component
